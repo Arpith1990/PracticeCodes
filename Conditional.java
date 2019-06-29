@@ -16,7 +16,7 @@ public class Conditional {
 			System.out.println("Fill cofee");
 		}
 		else {
-			System.out.println("Drink Cofee");
+			System.out.println("Drink Cofee And enjoy");
 		}
 	}
 
