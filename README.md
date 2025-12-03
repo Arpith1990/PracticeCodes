@@ -1,2 +1,2 @@
 # PracticeCodes
-Eclipse Projects of Java and Selenium
+Eclipse Projects of Java and Selenium.
