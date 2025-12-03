@@ -18,7 +18,7 @@ public class Login {
 		driver.findElement(By.linkText("Login & Signup")).click();
 		driver.findElement(By.className("_2zrpKA")).sendKeys("username");
 		driver.findElement(By.className("_2zrpKA _3v41xv")).sendKeys("password");
-		driver.findElement(By.className("_2AkmmA _1LctnI _7UHT_c")).submit();
+	
 		//Search
 		 driver.findElement(By.xpath("//div[@class='O8ZS_U']/input")).sendKeys("redmi");
 		  driver.findElement(By.xpath("//div[@class='O8ZS_U']/input")).sendKeys(Keys.ENTER);
@@ -36,3 +36,4 @@ public class Login {
 	}
 
 }
+
